@@ -1,5 +1,3 @@
-
-
 ````markdown
 <h1 align="center">Hi 👋, I'm Ibrahim Bourzgui</h1>
 <h3 align="center">Java Backend Developer | Microservices Architect | Cloud-Native Enthusiast</h3>
