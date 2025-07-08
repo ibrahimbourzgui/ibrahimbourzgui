@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Bourzgui</h1>
-<h3 align="center">Java Backend Developer | Microservices Architect | Cloud-Native Enthusiast</h3>
+<h3 align="center">Java Backend Developer | Microservices Specialist | Cloud-Native Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&center=true&lines=Java+%7C+Spring+Boot+%7C+Microservices;Kubernetes+%7C+Kafka+%7C+Docker;CI%2FCD+with+Flux+%7C+Prometheus+%7C+REST+APIs;Crafting+Clean+%26+Scalable+Backends" alt="Typing SVG" />
