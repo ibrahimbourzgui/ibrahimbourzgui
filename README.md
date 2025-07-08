@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Ibrahim Bourzgui</h1>
 <h3 align="center">Java Backend Developer | Microservices Architect | Cloud-Native Enthusiast</h3>
 
@@ -10,37 +9,33 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, SQL, Shell
-- **Backend:** Spring Boot, JPA, Hibernate, REST
-- **Cloud & DevOps:** Docker, Kubernetes, GitOps (Flux), CI/CD
-- **Messaging:** Apache Kafka, RabbitMQ
-- **DB:** MySQL, MongoDB
-- **Monitoring:** Prometheus, Grafana
-- **Testing:** JUnit, Mockito, Testcontainers
-- **Tools:** Git, GitHub Actions, IntelliJ
+- **Languages:** Java, SQL, Shell  
+- **Backend:** Spring Boot, JPA, Hibernate, REST  
+- **Cloud & DevOps:** Docker, Kubernetes, GitOps (Flux), CI/CD  
+- **Messaging:** Apache Kafka, RabbitMQ  
+- **DB:** MySQL, MongoDB  
+- **Monitoring:** Prometheus, Grafana  
+- **Testing:** JUnit, Mockito, Testcontainers  
+- **Tools:** Git, GitHub Actions, IntelliJ  
 
 ---
 
 ### 🧠 About Me
 
-- 🧳 New Permanent Resident in Canada 🇨🇦 (from 🇲🇦)
-- 🏢 Currently: Java Developer at **Onclusive (R&D Team)**
-- 🎓 Master’s in Computer Science (WES-evaluated)
-- 💡 Focused on building **scalable microservices** and integrating **complex APIs** (Meta, YouTube, Twitter...)
-- 🗣️ Trilingual: English, French, Arabic
+- 🧳 New Permanent Resident in Canada 🇨🇦 (from 🇲🇦)  
+- 🏢 Currently: Java Developer at **Onclusive (R&D Team)**  
+- 🎓 Master’s in Computer Science (WES-evaluated)  
+- 💡 Focused on building **scalable microservices** and integrating **complex APIs** (Meta, YouTube, Twitter...)  
+- 🗣️ Trilingual: English, French, Arabic  
 
 ---
 
 ### 🎯 My Journey So Far
 
-```mermaid
-timeline
-    title Ibrahim's Roadmap
-    2022 : Built data-intensive microservices in Spring Boot
-    2023 : Joined Onclusive as Java Developer 
-    2023 : Mastered Kubernetes, Kafka, CI/CD with GitOps
-    2025 : Became Canadian PR, preparing for the tech market in Toronto 🇨🇦
-````
+- 2022: Built data-intensive microservices in Spring Boot  
+- 2023: Joined Onclusive as Java Developer  
+- 2023: Mastered Kubernetes, Kafka, CI/CD with GitOps  
+- 2025: Became Canadian PR, preparing for the tech market in Toronto 🇨🇦  
 
 ---
 
@@ -63,18 +58,18 @@ timeline
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibrahimbourzgui/ibrahimbourzgui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ibrahimbourzgui/ibrahimbourzgui/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 
 ---
 
 ### 📫 Connect With Me
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahimbourzgui/)
-* 💻 [GitHub](https://github.com/ibrahimbourzgui)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahimbourzgui/" target="_blank">🔗 LinkedIn</a> |  
+  <a href="https://github.com/ibrahimbourzgui" target="_blank">💻 GitHub</a>
+</p>
 
 ---
 
-> *“Code with resilience. Learn with curiosity. Lead with purpose.”*
-
+> <em>“Code with resilience. Learn with curiosity. Lead with purpose.”</em>
