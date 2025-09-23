@@ -8,25 +8,25 @@
 
 ### 🧠 About Me
 
-* [cite_start]📍 Based in Toronto, Canada[cite: 2].
-* [cite_start]🏢 Experienced in architecting intuitive SaaS platforms and designing scalable back-end solutions for high-availability environments, processing over 200 million data points monthly for 1,000+ companies[cite: 6, 8].
-* [cite_start]🚀 Focused on building robust solutions with microservices architecture, Spring Boot, Kafka, and Kubernetes to solve complex problems[cite: 7].
-* [cite_start]🎓 Holder of a State Engineering Diploma in Computer Systems Engineering, assessed as equivalent to a Canadian Master's Degree by WES[cite: 46, 49].
-* [cite_start]🗣️ Professionally fluent in English and French[cite: 10].
+* 📍 Based in Toronto, Canada.
+* 🏢 Experienced in architecting intuitive SaaS platforms and designing scalable back-end solutions for high-availability environments, processing over 200 million data points monthly for 1,000+ companies.
+* 🚀 Focused on building robust solutions with microservices architecture, Spring Boot, Kafka, and Kubernetes to solve complex problems.
+* 🎓 Holder of a State Engineering Diploma in Computer Systems Engineering, assessed as equivalent to a Canadian Master's Degree by WES.
+* 🗣️ Professionally fluent in English and French.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* [cite_start]**Languages:** Java, Python, SQL, JavaScript [cite: 13]
-* [cite_start]**Backend & Frameworks:** Spring (Boot, WebFlux, Security, Data, Cloud), Hibernate/JPA, R2DBC, RESTful APIs, GraphQL, NodeJS [cite: 14, 15]
-* [cite_start]**Microservices & Messaging:** Kafka, RabbitMQ, OpenFeign, Eureka [cite: 15]
-* [cite_start]**Databases:** MySQL, MariaDB, PostgreSQL, Oracle, SQL Server, MongoDB, Elasticsearch [cite: 17]
-* [cite_start]**Cloud & DevOps:** Docker, Kubernetes, AWS, Git/GitLab, CI/CD (Flux) [cite: 17]
-* [cite_start]**Frontend:** ReactJS, Angular [cite: 14]
-* [cite_start]**Testing:** JUnit, Mockito [cite: 14]
-* [cite_start]**Monitoring:** Prometheus, Grafana [cite: 17]
-* [cite_start]**API Integration:** Social Media APIs (Facebook, Instagram, Twitter, YouTube), REST, SOAP [cite: 17]
+* **Languages:** Java, Python, SQL, JavaScript
+* **Backend & Frameworks:** Spring (Boot, WebFlux, Security, Data, Cloud), Hibernate/JPA, R2DBC, RESTful APIs, GraphQL, NodeJS
+* **Microservices & Messaging:** Kafka, RabbitMQ, OpenFeign, Eureka
+* **Databases:** MySQL, MariaDB, PostgreSQL, Oracle, SQL Server, MongoDB, Elasticsearch
+* **Cloud & DevOps:** Docker, Kubernetes, AWS, Git/GitLab, CI/CD (Flux)
+* **Frontend:** ReactJS, Angular
+* **Testing:** JUnit, Mockito
+* **Monitoring:** Prometheus, Grafana
+* **API Integration:** Social Media APIs (Facebook, Instagram, Twitter, YouTube), REST, SOAP
 
 ---
 
@@ -42,7 +42,13 @@
 
 ### 🐍 Contribution Snake
 
-![Contribution Snake](dist/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
