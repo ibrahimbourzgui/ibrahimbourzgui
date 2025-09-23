@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-* 📍 Based in Toronto, Canada.
+* 📍 Based in Toronto, ON.
 * 🏢 Experienced in architecting intuitive SaaS platforms and designing scalable back-end solutions for high-availability environments, processing over 200 million data points monthly for 1,000+ companies.
 * 🚀 Focused on building robust solutions with microservices architecture, Spring Boot, Kafka, and Kubernetes to solve complex problems.
 * 🎓 Holder of a State Engineering Diploma in Computer Systems Engineering, assessed as equivalent to a Canadian Master's Degree by WES.
